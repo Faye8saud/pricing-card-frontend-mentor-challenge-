@@ -107,3 +107,9 @@ ul{
   opacity:0.7;
   font-size:0.8rem;
 }
+@media (max-width:650px){
+  #bottom-left-section, #bottom-right-section,   #card{
+    width:100%;
+     height:auto
+  }
+  
